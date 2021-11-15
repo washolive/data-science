@@ -1,4 +1,10 @@
 # Data Science
-## Repositório de aplicações e estudos em Ciência de Dados.
+## Aplicações e estudos em Ciência de Dados
+
+### Aplicações
+- Predição de ...
+
+### Estudos
+- Curso ...
 
 
